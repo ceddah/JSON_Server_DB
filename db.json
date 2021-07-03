@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Awesome Stream this is..!",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some Stream",
+      "id": 2
+    },
+    {
+      "title": "ceddah's Stream",
+      "description": "Playing some video games on weekends.",
+      "userId": "117840034878432088130",
+      "id": 4
+    },
+    {
+      "title": "ReactJS Programming Stream",
+      "description": "Learn React and Redux with Stephan Grider.",
+      "userId": "117840034878432088130",
+      "id": 5
+    },
+    {
+      "title": "Random Guys Stream",
+      "description": "There is some random Stream here.",
+      "id": 7
+    },
+    {
+      "title": "Everybodies Everything Stream",
+      "description": "Please come and watch our documentary.",
+      "userId": "117840034878432088130",
+      "id": 8
+    }
+  ]
+}
